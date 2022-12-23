@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.w-h-100{
+  width: 100px;
+  height: 100px;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  /* padding: 35px; */
+  align-items: center;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.bg-color{
+  background-color: #f4f6f5;
+}

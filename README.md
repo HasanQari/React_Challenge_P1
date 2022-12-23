@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+###############################################################################
+
+React Project 1
+developed by: HasanQari
+
+des:
+    this project is built to meet interview req.
+
+structure:
+    project folder|
+        |public => index.html
+        |src => 1. styles: App & index .css
+        |       2. javascript: App & index .js
+        |       3. pages:   - main : welcome page
+                            - circle : functional page in the project
